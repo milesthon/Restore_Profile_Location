@@ -9,4 +9,4 @@
 This batch script allows you to reset the default user folder path  
 Этот batch скрипт позволяет сбросить путь к папке пользователя по умолчанию
 ***
-by mmichaelKo
+by MilesthoN
